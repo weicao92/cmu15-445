@@ -1,4 +1,6 @@
-[CMU 15-445/645 (Fall 2017) Database Systems](http://15445.courses.cs.cmu.edu/fall2017/). A course on the design and implementation of database management systems.
+[CMU 15-445/645 (Fall 2017) Database Systems](http://15445.courses.cs.cmu.edu/fall2017/). 
+
+[2018 fall videos](https://www.bilibili.com/video/av39731185)
 
 ## Projects
 
@@ -10,19 +12,4 @@
 
 - [ ] Project 4 - Logging & Recovery
 
-- [ ] Project 5 - Extra Credit
-
-## Homeworks
-
-- [x] Homework 1 - SQL
-
-- [ ] Homework 2 - Normal Forms
-
-- [ ] Homework 3 - Indexes
-
-- [ ] Homework 4 - Join Algorithms
-
-- [ ] Homework 5 - Concurrency Control
-
-- [ ] Homework 6 - Recovery 
 
